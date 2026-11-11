@@ -19,6 +19,9 @@ classifiers = [
 ]
 dependencies = []
 
+[project.scripts]
+doc-section-diff = "doc_section_diff.__main__:main"
+
 [project.urls]
 Homepage = "https://github.com/Trysac/u211-doc-section-diff"
 Source = "https://github.com/Trysac/u211-doc-section-diff"

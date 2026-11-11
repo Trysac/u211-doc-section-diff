@@ -9,4 +9,5 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ### Added
 
+- Added doc_section_diff: parse Markdown sections and compute section-level diffs with stable ids, content hashes, and rename detection.
 - Initial project structure from the factory utility template.
